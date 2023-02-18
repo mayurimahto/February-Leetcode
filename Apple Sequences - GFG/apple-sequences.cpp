@@ -15,7 +15,7 @@ public:
         int end=0;
         int ans=0;
         
-        while(end!=n)
+        while(end<n)
         {
             if(m>0)
             {
